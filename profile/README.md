@@ -13,7 +13,7 @@ We make dev utilities, Minecraft mods and more!
 
 ## Licensing
 
-The [license](LICENSE) applies to all our projects unless explicitly stated.
+The [license](https://github.com/Prismwork/.github/blob/trunk/LICENSE) applies to all our projects unless explicitly stated.
 
 #### About Minecraft mods
 
